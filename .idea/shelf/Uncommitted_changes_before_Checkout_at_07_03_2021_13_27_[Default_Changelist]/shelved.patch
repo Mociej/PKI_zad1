@@ -1,0 +1,19 @@
+Index: src/PKI_zad1/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package PKI_zad1;\r\n\r\npublic class Main {\r\n\r\n    public static void main(String[] args) {\r\n\t// write your code here\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/PKI_zad1/Main.java	(revision 47774baaca505ab6168329d50d9cdc4759f4bb47)
++++ src/PKI_zad1/Main.java	(date 1615120055574)
+@@ -3,6 +3,8 @@
+ public class Main {
+ 
+     public static void main(String[] args) {
+-	// write your code here
++        System.out.println("Branch 02");
++        System.out.println("Branch 02");
++        System.out.println("Branch 02");
+     }
+ }

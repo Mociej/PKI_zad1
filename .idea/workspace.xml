@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cba02d8c-278d-4ab4-a2b4-d1a167e377eb" name="Default Changelist" comment="dodanie dwóch println" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="02" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="cef5c37899ff37992ae406503c6e62289b62d80f" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="02" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Mociej" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="PKI_zad1" />
+  </component>
+  <component name="ProjectId" id="1pFXTgdWcmuYgXkOBoZLXuuRuYT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PKI_zad1.Main" />
+      <module name="PKI_zad1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba02d8c-278d-4ab4-a2b4-d1a167e377eb" name="Default Changelist" comment="" />
+      <created>1614779826239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614779826239</updated>
+      <workItem from="1614779828310" duration="1963000" />
+      <workItem from="1615118899335" duration="4581000" />
+    </task>
+    <task id="LOCAL-00001" summary="dodanie pritln">
+      <created>1614781684395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614781684395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dodanie pritln">
+      <created>1615119437012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615119437012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dodanie dwóch println">
+      <created>1615120226815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615120226815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dodanie pritln" />
+    <MESSAGE value="dodanie dwóch println" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie dwóch println" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="183" key="DiffContextDialog" timestamp="1615120537707">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="176" y="183" key="DiffContextDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120537707" />
+    <state x="332" y="406" key="Github.CreatePullRequestDialog" timestamp="1615120540117">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="332" y="406" key="Github.CreatePullRequestDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120540117" />
+    <state x="871" y="437" key="Github.ShareDialog" timestamp="1614780087817">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="871" y="437" key="Github.ShareDialog/67.0.1853.1080@67.0.1853.1080" timestamp="1614780087817" />
+    <state x="785" y="244" key="Github.UntrackedFilesDialog" timestamp="1614780105520">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="785" y="244" key="Github.UntrackedFilesDialog/67.0.1853.1080@67.0.1853.1080" timestamp="1614780105520" />
+    <state width="1808" height="294" key="GridCell.Tab.0.bottom" timestamp="1614781806622">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="1808" height="294" key="GridCell.Tab.0.bottom/67.0.1853.1080@67.0.1853.1080" timestamp="1614781806622" />
+    <state width="1808" height="294" key="GridCell.Tab.0.center" timestamp="1614781806621">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="1808" height="294" key="GridCell.Tab.0.center/67.0.1853.1080@67.0.1853.1080" timestamp="1614781806621" />
+    <state width="1808" height="294" key="GridCell.Tab.0.left" timestamp="1614781806621">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="1808" height="294" key="GridCell.Tab.0.left/67.0.1853.1080@67.0.1853.1080" timestamp="1614781806621" />
+    <state width="1808" height="294" key="GridCell.Tab.0.right" timestamp="1614781806621">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="1808" height="294" key="GridCell.Tab.0.right/67.0.1853.1080@67.0.1853.1080" timestamp="1614781806621" />
+    <state x="0" y="89" key="MergeDialog" timestamp="1615120086931">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="0" y="89" key="MergeDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120086931" />
+    <state x="245" y="438" key="MultipleFileMergeDialog" timestamp="1615120358235">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="245" y="438" key="MultipleFileMergeDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120358235" />
+    <state x="312" y="264" key="Vcs.Push.Dialog.v2" timestamp="1615126665046">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="584" y="272" key="Vcs.Push.Dialog.v2/67.0.1853.1080@67.0.1853.1080" timestamp="1614781725462" />
+    <state x="312" y="264" key="Vcs.Push.Dialog.v2/70.0.1850.1080@70.0.1850.1080" timestamp="1615126665046" />
+    <state x="198" y="268" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1615120538710">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="198" y="268" key="com.intellij.dvcs.ui.CompareBranchesDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120538710" />
+    <state x="311" y="252" key="git4idea.branch.GitSmartOperationDialog" timestamp="1615120072800">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="311" y="252" key="git4idea.branch.GitSmartOperationDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120072800" />
+    <state x="328" y="383" key="git4idea.ui.GitTagDialog" timestamp="1615120130181">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="328" y="383" key="git4idea.ui.GitTagDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1615120130181" />
+    <state x="656" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1614780073761">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="656" y="235" width="672" height="678" key="search.everywhere.popup/67.0.1853.1080@67.0.1853.1080" timestamp="1614780073761" />
+  </component>
+</project>
